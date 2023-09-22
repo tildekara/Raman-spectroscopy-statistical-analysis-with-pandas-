@@ -1,0 +1,1 @@
+A script to analyze Raman spectroscopy data in txt files from mapping measurements. The script includes fitting multiple Lorentzian functions to the specific peaks in the Raman spectrum and analyzing the counds with respect to the spectrometer's calibrational silicon line. Output data is plotted within the notebook and fitting results are written into a new file. 
